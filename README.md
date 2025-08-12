@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Le Kien IT
 
-Chương trình chatbot được tạo ra từ Lê Văn Kiên
-
+Chương trình chatbot được tạo ra bởi Lê Văn Kiên
 
